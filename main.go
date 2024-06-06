@@ -112,3 +112,4 @@ func main() {
 
     fmt.Printf("Game dimenangkan oleh pemain #%d dengan %d poin.\n", winner.id, winner.points)
 }
+
